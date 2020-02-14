@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  Button.cpp
+  FileManager.cpp
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\filemanager.cpp(81): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\filemanager.cpp(82): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\filemanager.cpp(97): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\filemanager.cpp(109): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  FileWorld.cpp
+  GameManager.cpp
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\gamemanager.cpp(19): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\gamemanager.cpp(29): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\gamemanager.cpp(82): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\gamemanager.cpp(96): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\gamemanager.cpp(110): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\gamemanager.cpp(162): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\gamemanager.cpp(188): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\gamemanager.cpp(257): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\admin\desktop\cyberconnect2\worldoffiles\worldoffiles\worldoffiles\gamemanager.cpp(290): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Languages.cpp
+  Player.cpp
+  TextBox.cpp
+  UIManager.cpp
+  WorldOfFiles.cpp
+  Génération de code en cours...
+  WorldOfFiles.vcxproj -> C:\Users\Admin\Desktop\CyberConnect2\WorldOfFiles\WorldOfFiles\x64\Debug\WorldOfFiles.exe
