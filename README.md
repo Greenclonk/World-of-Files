@@ -1,6 +1,6 @@
 # World-of-Files (Windows)
 A small programm in the style of older text adventures. 
-Small Editor to create the world files and language files.
+Small Editor to create the world files and language files, in other project.
 
 You choose a language and a world, and then you explore the world by going to different paths, and seeing the places.
 
